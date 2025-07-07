@@ -28,3 +28,16 @@ greet()
 * English Course (Upper-Intermediate)
 
 * IT-Shattle (2021) HTML/ CSS code
+
+### Professional skills 
+
+* HTML/CSS/SASS
+* JavaScript
+* React
+* Git, GitHub
+* Figma
+
+
+### Experience 
+
+Not relevant
