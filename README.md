@@ -1,1 +1,1 @@
-# rsschool-cv
+https://xenia0525.github.io/rsschool-cv/cv
